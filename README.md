@@ -81,7 +81,7 @@ It asks Keycloak for an access token and then calls the protected Flask API usin
      - `grant_type=client_credentials`
      - `client_id=testapiclient1`
      - `client_secret=lient_secret>`
-     - `scope=test_api_access` (explicitly asks Keycloak to include this scope).
+     - `scope=test_api_access` (explicitly asks Keycloak to include this scope)(if you choose OPTIONAL then must include this scope=...).
 
 2. **Parses the JSON response**
 
