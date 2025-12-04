@@ -8,6 +8,8 @@ A separate Python script, `client.py`, acts as an **OAuth2 client** (machine‑t
 It asks Keycloak for an access token and then calls the protected Flask API using that token.
 
 ---
+![Main screenshot 1](sample.png)  
+---
 
 ## Architecture Overview
 
