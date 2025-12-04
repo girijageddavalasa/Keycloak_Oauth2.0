@@ -1,6 +1,6 @@
 # OAuth2 Client‑Credentials Demo with Flask, Keycloak and Authlib
 
-Thanks to ```https://nagasudhir.blogspot.com/2020/04/taming-python-table-of-contents.html```
+Thanks to ```https://nagasudhir.blogspot.com/2023/04/implement-flask-server-and-python.html```
 has helped me to build thats what i am practising it here
 This project demonstrates how to secure a Flask API (resource server) using **Keycloak** as the **authorization server** and **Authlib** for JWT validation.
 
